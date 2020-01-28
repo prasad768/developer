@@ -1,0 +1,114 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-02-28 17:13:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-02-28 17:13:46 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 500 0 0 42909
+2018-02-28 17:13:47 ::1 GET /favicon.ico - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 220
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-02-28 17:15:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-02-28 17:15:51 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 16054
+2018-02-28 17:15:51 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 67
+2018-02-28 17:15:51 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 67
+2018-02-28 17:15:51 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 95
+2018-02-28 17:15:51 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 200 0 0 1
+2018-02-28 17:15:57 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 619
+2018-02-28 17:16:00 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 437
+2018-02-28 17:16:03 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 424
+2018-02-28 17:16:08 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 296
+2018-02-28 17:16:21 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 440
+2018-02-28 17:16:30 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 307
+2018-02-28 17:16:39 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 434
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-02-28 17:19:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-02-28 17:19:18 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 52049
+2018-02-28 17:19:18 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 20
+2018-02-28 17:19:18 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 20
+2018-02-28 17:19:18 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 20
+2018-02-28 17:19:18 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 304 0 0 8
+2018-02-28 17:23:17 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 91637
+2018-02-28 17:23:17 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 304 0 0 18
+2018-02-28 17:23:17 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 64 231106
+2018-02-28 17:23:17 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 304 0 0 17
+2018-02-28 17:23:17 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 304 0 0 17
+2018-02-28 17:23:17 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 304 0 0 6
+2018-02-28 17:24:05 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 45084
+2018-02-28 17:27:59 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 229856
+2018-02-28 17:27:59 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 304 0 0 14
+2018-02-28 17:27:59 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 304 0 0 14
+2018-02-28 17:27:59 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 304 0 0 14
+2018-02-28 17:27:59 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 304 0 0 7
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-02-28 17:29:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-02-28 17:29:11 ::1 GET /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 500 0 64 28744
+2018-02-28 17:29:19 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 2163
+2018-02-28 17:29:19 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 64 43202
+2018-02-28 17:29:24 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 476
+2018-02-28 17:29:52 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 292
+2018-02-28 17:29:58 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 272
+2018-02-28 17:30:04 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 398
+2018-02-28 17:30:07 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 381
+2018-02-28 17:30:10 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 402
+2018-02-28 17:30:49 ::1 GET /Account/Login - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 64 30926
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-02-28 17:33:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-02-28 17:33:35 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 21716
+2018-02-28 17:33:35 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 14
+2018-02-28 17:33:35 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 27
+2018-02-28 17:33:35 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 27
+2018-02-28 17:33:35 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 304 0 0 5
+2018-02-28 17:36:50 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 579
+2018-02-28 17:37:20 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 427
+2018-02-28 17:37:26 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 445
+2018-02-28 17:37:33 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 316
+2018-02-28 17:37:38 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 427
+2018-02-28 17:37:42 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 313
+2018-02-28 17:37:55 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 444
+2018-02-28 17:37:55 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 304 0 0 11
+2018-02-28 17:37:55 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 304 0 0 11
+2018-02-28 17:39:11 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 321
+2018-02-28 17:39:11 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 13
+2018-02-28 17:39:11 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 304 0 0 4
+2018-02-28 17:39:15 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 426
+2018-02-28 17:39:23 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 435
+2018-02-28 17:39:55 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 443
+2018-02-28 17:39:58 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 426
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-02-28 17:49:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-02-28 17:49:40 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 19660
+2018-02-28 17:49:40 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 27
+2018-02-28 17:49:40 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 25
+2018-02-28 17:49:40 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 25
+2018-02-28 17:49:40 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 304 0 0 6
+2018-02-28 17:49:45 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 558
+2018-02-28 17:49:54 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 522
+2018-02-28 17:49:57 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 440
+2018-02-28 17:50:01 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 452
+2018-02-28 17:50:13 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 439
+2018-02-28 17:50:28 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 463
+2018-02-28 17:50:33 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 460
+2018-02-28 17:50:36 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 433
+2018-02-28 17:50:39 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 457
+2018-02-28 17:51:05 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 434
+2018-02-28 17:51:08 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 428
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-02-28 17:57:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-02-28 17:57:10 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 53002
+2018-02-28 17:57:10 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 22
+2018-02-28 17:57:10 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 17
+2018-02-28 17:57:10 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 13
+2018-02-28 17:57:12 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 304 0 0 20
+2018-02-28 17:57:23 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 386
+2018-02-28 17:58:51 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 522
+2018-02-28 17:58:54 ::1 POST / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 294

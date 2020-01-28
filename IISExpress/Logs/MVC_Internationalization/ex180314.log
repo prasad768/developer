@@ -1,0 +1,69 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-03-14 17:04:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-03-14 17:04:16 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 32528
+2018-03-14 17:04:16 ::1 GET /Scripts/modernizr-2.5.3.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 32
+2018-03-14 17:04:16 ::1 GET /Scripts/jquery-1.7.1.js - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 32
+2018-03-14 17:04:16 ::1 GET /Content/site.css - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 304 0 0 48
+2018-03-14 17:04:16 ::1 GET /Images/accent.png - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Content/site.css 304 0 0 19
+2018-03-14 17:04:16 ::1 GET /favicon.ico - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 19
+2018-03-14 17:04:48 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 672
+2018-03-14 17:04:51 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 565
+2018-03-14 17:04:56 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 461
+2018-03-14 17:04:59 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 475
+2018-03-14 17:05:58 ::1 GET /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 500 0 0 20794
+2018-03-14 17:06:15 ::1 GET /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 500 0 0 10863
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-03-14 17:06:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-03-14 17:06:38 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 16992
+2018-03-14 17:06:47 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 5027
+2018-03-14 17:07:04 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 13384
+2018-03-14 17:07:51 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 42679
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-03-14 17:08:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-03-14 17:08:39 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 15498
+2018-03-14 17:09:44 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 64 22005
+2018-03-14 17:09:44 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 13625
+2018-03-14 17:09:44 ::1 GET /favicon.ico - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 61
+2018-03-14 17:09:53 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 4666
+2018-03-14 17:10:02 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 4823
+2018-03-14 17:10:15 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 4440
+2018-03-14 17:11:26 ::1 GET /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 500 0 0 24699
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-03-14 17:12:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-03-14 17:12:29 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 23533
+2018-03-14 17:15:08 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 500 0 0 153414
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-03-14 17:40:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-03-14 17:40:13 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 22309
+2018-03-14 17:41:24 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 60660
+2018-03-14 17:41:33 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 500 0 0 4807
+2018-03-14 17:42:19 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 500 0 0 30780
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-03-14 17:44:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-03-14 17:44:59 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 23153
+2018-03-14 17:45:16 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 9917
+2018-03-14 17:47:13 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 114146
+2018-03-14 17:47:26 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 8799
+2018-03-14 17:48:14 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 35172
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-03-14 18:08:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-03-14 18:08:09 ::1 GET / - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 - 200 0 0 26138
+2018-03-14 18:09:37 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 0 13603
+2018-03-14 18:09:37 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/ 200 0 64 76031
+2018-03-14 18:09:49 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 2561
+2018-03-14 18:09:56 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 2240
+2018-03-14 18:10:02 ::1 POST /Home/ChangeCulture - 54230 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3282.186+Safari/537.36 http://localhost:54230/Home/ChangeCulture 200 0 0 1935

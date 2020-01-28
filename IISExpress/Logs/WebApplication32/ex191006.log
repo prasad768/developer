@@ -1,0 +1,40 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-06 14:51:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-06 14:51:50 ::1 GET /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 5056
+2019-10-06 14:51:50 ::1 GET /favicon.ico - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 404 0 2 0
+2019-10-06 14:52:37 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 500 0 64 35429
+2019-10-06 14:52:37 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 500 0 64 34224
+2019-10-06 14:52:37 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 500 0 64 34965
+2019-10-06 14:52:37 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 500 0 0 34036
+2019-10-06 14:52:37 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 500 0 64 37193
+2019-10-06 14:52:37 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 500 0 64 35193
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-06 14:53:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-06 14:53:37 ::1 GET /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 2279
+2019-10-06 14:53:54 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 500 0 0 13463
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-06 15:02:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-06 15:02:25 ::1 GET /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 2380
+2019-10-06 15:04:03 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 500 0 0 90852
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-06 15:05:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-06 15:05:12 ::1 GET /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 1256
+2019-10-06 15:05:15 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 68
+2019-10-06 15:05:32 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 64
+2019-10-06 15:05:34 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 46
+2019-10-06 15:05:34 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 45
+2019-10-06 15:05:34 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 52
+2019-10-06 15:05:34 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 44
+2019-10-06 15:05:34 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 48
+2019-10-06 15:05:35 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 55
+2019-10-06 15:05:35 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 43
+2019-10-06 15:05:35 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 44
+2019-10-06 15:05:35 ::1 POST /WebForm1.aspx - 14985 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14985/WebForm1.aspx 200 0 0 50

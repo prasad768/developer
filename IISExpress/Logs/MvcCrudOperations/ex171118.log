@@ -1,0 +1,86 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 07:59:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 07:59:50 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 39234
+2017-11-18 07:59:50 ::1 GET /favicon.ico - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:21668/ 200 0 0 43
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:01:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:01:45 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 60189
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:02:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:02:45 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 10188
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:06:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:06:58 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 211989
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:08:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:08:01 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 59620
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:09:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:09:10 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 25621
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:10:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:10:25 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 71022
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:10:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:10:51 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 20467
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:11:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:11:54 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 26703
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:34:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:34:33 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 64 218259
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:37:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:37:18 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 135252
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:38:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:38:02 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 25774
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:54:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:54:47 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 156578
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 08:56:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 08:56:57 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 102129
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 09:02:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 09:02:48 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 56589
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 09:21:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 09:21:03 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 46896
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 09:21:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 09:21:28 ::1 GET / - 21668 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 21484

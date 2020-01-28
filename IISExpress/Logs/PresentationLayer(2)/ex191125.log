@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-25 15:33:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-25 15:33:55 ::1 GET / - 1221 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 403 14 0 2652
+2019-11-25 15:33:55 ::1 GET /favicon.ico - 1221 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:1221/ 404 0 2 3

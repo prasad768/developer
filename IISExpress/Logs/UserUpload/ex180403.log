@@ -1,0 +1,88 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 16:20:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 16:20:31 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 27017
+2018-04-03 16:20:31 ::1 GET /Scripts/modernizr-2.5.3.js - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 200 0 0 59
+2018-04-03 16:20:31 ::1 GET /Content/site.css - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 200 0 0 130
+2018-04-03 16:20:31 ::1 GET /Scripts/jquery-1.7.1.js - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 200 0 0 146
+2018-04-03 16:20:31 ::1 GET /Images/accent.png - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/Content/site.css 200 0 0 51
+2018-04-03 16:20:31 ::1 GET /favicon.ico - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 200 0 0 33
+2018-04-03 16:24:51 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 118212
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 16:25:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 16:25:19 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 13408
+2018-04-03 16:27:01 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 87922
+2018-04-03 16:28:22 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 64864
+2018-04-03 16:28:22 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 64 68140
+2018-04-03 16:28:22 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 64 68345
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 16:30:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 16:30:29 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 11987
+2018-04-03 16:30:29 ::1 GET /Content/site.css - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 11
+2018-04-03 16:30:29 ::1 GET /Scripts/modernizr-2.5.3.js - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 10
+2018-04-03 16:30:29 ::1 GET /Scripts/jquery-1.7.1.js - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 10
+2018-04-03 16:30:29 ::1 GET /Images/accent.png - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/Content/site.css 304 0 0 5
+2018-04-03 16:36:18 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 337269
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 16:37:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 16:37:54 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 12619
+2018-04-03 16:44:02 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 64 351055
+2018-04-03 16:44:02 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 94520
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 16:57:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 16:57:37 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 12735
+2018-04-03 16:57:37 ::1 GET /Content/site.css - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 11
+2018-04-03 16:57:37 ::1 GET /Scripts/jquery-1.7.1.js - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 11
+2018-04-03 16:57:37 ::1 GET /Scripts/modernizr-2.5.3.js - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 11
+2018-04-03 16:57:37 ::1 GET /Images/accent.png - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/Content/site.css 304 0 0 4
+2018-04-03 16:59:39 ::1 POST /Home/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 105690
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 17:00:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 17:00:04 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 500 0 0 9136
+2018-04-03 17:00:26 ::1 GET /Emp/Index - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 500 0 0 193
+2018-04-03 17:00:30 ::1 GET /Emp/Index - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 500 0 0 188
+2018-04-03 17:00:45 ::1 GET /Emp/Index - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 500 0 0 186
+2018-04-03 17:00:56 ::1 GET /Emp/Index - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 500 0 0 183
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 17:03:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 17:03:37 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 13138
+2018-04-03 17:03:54 ::1 POST /Emp/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 404 0 0 120
+2018-04-03 17:04:45 ::1 POST /Emp/Upload - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 404 0 0 65
+2018-04-03 17:04:53 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 1260
+2018-04-03 17:05:08 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 1171
+2018-04-03 17:06:08 ::1 POST / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 44796
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 17:08:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 17:08:01 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 12459
+2018-04-03 17:09:42 ::1 POST / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 85952
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 17:17:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 17:17:26 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 11645
+2018-04-03 17:17:26 ::1 GET /Content/site.css - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 12
+2018-04-03 17:17:26 ::1 GET /Scripts/jquery-1.7.1.js - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 12
+2018-04-03 17:17:26 ::1 GET /Scripts/modernizr-2.5.3.js - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 304 0 0 12
+2018-04-03 17:17:26 ::1 GET /Images/accent.png - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/Content/site.css 304 0 0 4
+2018-04-03 17:19:12 ::1 POST / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 98113
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2018-04-03 17:19:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-04-03 17:19:41 ::1 GET / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - 200 0 0 10695
+2018-04-03 17:23:17 ::1 POST / - 2282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://localhost:2282/ 500 0 0 207519

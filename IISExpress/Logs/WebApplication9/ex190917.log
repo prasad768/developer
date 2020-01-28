@@ -1,0 +1,47 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 12:54:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 12:54:39 ::1 GET /WebForm1.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 131211
+2019-09-17 12:54:39 ::1 GET /favicon.ico - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:30796/WebForm1.aspx 404 0 2 16
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 12:56:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 12:56:03 ::1 GET /WebForm1.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 32158
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 12:56:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 12:56:59 ::1 GET /WebForm1.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 28958
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 13:01:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 13:01:56 ::1 GET /WebForm1.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 49409
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 13:04:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 13:04:05 ::1 GET /WebForm1.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 43269
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 13:09:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 13:09:39 ::1 GET /WebForm2.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 73868
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 13:10:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 13:10:21 ::1 GET /WebForm2.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 29792
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 14:59:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 14:59:46 ::1 GET /WebForm2.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 17285
+2019-09-17 14:59:46 ::1 GET /favicon.ico - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:30796/WebForm2.aspx 404 0 2 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-17 15:12:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-17 15:12:09 ::1 GET /WebForm3.aspx - 30796 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 2326

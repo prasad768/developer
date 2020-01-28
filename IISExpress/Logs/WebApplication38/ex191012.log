@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-12 02:57:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-12 02:57:31 ::1 GET /WebForm2.aspx - 17730 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 500 0 0 3544
+2019-10-12 02:57:31 ::1 GET /favicon.ico - 17730 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:17730/WebForm2.aspx 404 0 2 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-12 02:58:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-12 02:58:08 ::1 GET / - 17730 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 403 14 0 1048
+2019-10-12 02:58:08 ::1 GET /favicon.ico - 17730 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:17730/ 404 0 2 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-12 02:59:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-12 02:59:24 ::1 GET / - 17730 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 403 14 0 1097
+2019-10-12 02:59:24 ::1 GET /favicon.ico - 17730 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:17730/ 404 0 2 4

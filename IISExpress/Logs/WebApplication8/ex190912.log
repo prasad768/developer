@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-12 14:10:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-12 14:10:09 ::1 GET /WebForm1.aspx - 2407 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 8648
+2019-09-12 14:10:09 ::1 GET /favicon.ico - 2407 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:2407/WebForm1.aspx 200 0 0 60
+2019-09-12 14:10:18 ::1 POST /WebForm1.aspx - 2407 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:2407/WebForm1.aspx 200 0 0 736
+2019-09-12 14:10:29 ::1 POST /WebForm1.aspx - 2407 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:2407/WebForm1.aspx 200 0 0 130

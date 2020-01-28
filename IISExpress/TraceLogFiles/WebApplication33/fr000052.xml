@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='freb.xsl'?>
+<!-- saved from url=(0014)about:internet -->
+<failedRequest url="http://localhost:15091/Rama.Master"
+               siteId="48"
+               appPoolId="Clr4IntegratedAppPool"
+               processId="7104"
+               verb="GET"
+               authenticationType="NOT_AVAILABLE"               activityId="{00000000-0000-0000-2000-0080030000FD}"
+               failureReason="STATUS_CODE"
+               statusCode="404.7"
+               triggerStatusCode="404.7"
+               timeTaken="0"
+               xmlns:freb="http://schemas.microsoft.com/win/2006/06/iis/freb"
+               >
+</failedRequest>

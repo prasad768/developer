@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-09 14:52:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-09 14:52:44 ::1 GET /WebForm1.aspx - 1359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 8458
+2019-09-09 14:52:44 ::1 GET /favicon.ico - 1359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1359/WebForm1.aspx 200 0 0 80
+2019-09-09 14:56:09 ::1 POST /WebForm1.aspx - 1359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1359/WebForm1.aspx 500 0 0 172527
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-09 14:56:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-09 14:56:39 ::1 GET /WebForm1.aspx - 1359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 5043
+2019-09-09 14:57:51 ::1 POST /WebForm1.aspx - 1359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1359/WebForm1.aspx 500 0 0 58894
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-09 14:59:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-09 14:59:12 ::1 GET /WebForm1.aspx - 1359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 1712
+2019-09-09 15:00:11 ::1 POST /WebForm1.aspx - 1359 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1359/WebForm1.aspx 500 0 0 45349

@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-15 02:12:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-15 02:12:31 ::1 GET /WebForm1.aspx - 18178 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 500 0 0 57839
+2019-10-15 02:12:31 ::1 GET /favicon.ico - 18178 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:18178/WebForm1.aspx 404 0 2 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-15 02:14:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-15 02:14:58 ::1 GET /WebForm1.aspx - 18178 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 500 0 0 45232
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-15 02:15:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-15 02:15:43 ::1 GET / - 18178 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 403 14 0 1011
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-15 02:16:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-15 02:16:10 ::1 GET /WebForm1.aspx - 18178 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 1788
+2019-10-15 02:16:10 ::1 GET /favicon.ico - 18178 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:18178/WebForm1.aspx 404 0 2 4

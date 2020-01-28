@@ -1,0 +1,27 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-12-05 13:25:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-12-05 13:25:10 ::1 GET /WebForm2.aspx - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 6435
+2019-12-05 13:25:10 ::1 GET /favicon.ico - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:6565/WebForm2.aspx 404 0 2 16
+2019-12-05 13:25:54 ::1 POST /WebForm2.aspx - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:6565/WebForm2.aspx 500 0 0 26583
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-12-05 13:26:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-12-05 13:26:13 ::1 GET / - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 403 14 0 1139
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-12-05 13:26:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-12-05 13:26:29 ::1 GET /WebForm2.aspx - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 1750
+2019-12-05 13:26:29 ::1 GET /favicon.ico - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:6565/WebForm2.aspx 404 0 2 3
+2019-12-05 13:26:45 ::1 POST /WebForm2.aspx - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:6565/WebForm2.aspx 200 0 0 612
+2019-12-05 13:27:05 ::1 POST /WebForm2.aspx - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:6565/WebForm2.aspx 200 0 0 92
+2019-12-05 13:27:22 ::1 POST /WebForm2.aspx - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:6565/WebForm2.aspx 200 0 0 88
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-12-05 13:33:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-12-05 13:33:19 ::1 GET /WebForm2.aspx - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 - 200 0 0 2842
+2019-12-05 13:33:19 ::1 GET /favicon.ico - 6565 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.108+Safari/537.36 http://localhost:6565/WebForm2.aspx 404 0 2 3

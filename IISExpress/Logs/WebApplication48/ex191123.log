@@ -1,0 +1,43 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-23 16:47:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-23 16:47:14 ::1 GET /Home.aspx - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 2704
+2019-11-23 16:47:14 ::1 GET /favicon.ico - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:20244/Home.aspx 404 0 2 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-23 16:52:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-23 16:52:58 ::1 GET /Login.aspx - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 3675
+2019-11-23 16:52:58 ::1 GET /favicon.ico - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:20244/Login.aspx 404 0 2 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-23 16:53:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-23 16:53:15 ::1 GET /Login.aspx - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 1833
+2019-11-23 16:53:15 ::1 GET /favicon.ico - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:20244/Login.aspx 404 0 2 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-23 16:54:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-23 16:54:25 ::1 GET /Login.aspx - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 1948
+2019-11-23 16:54:25 ::1 GET /favicon.ico - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:20244/Login.aspx 404 0 2 2
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-23 17:01:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-23 17:01:28 ::1 GET /Login.aspx - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 1575
+2019-11-23 17:01:28 ::1 GET /favicon.ico - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:20244/Login.aspx 404 0 2 0
+2019-11-23 17:01:34 ::1 GET /Login.aspx - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 132
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-23 17:01:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-23 17:01:44 ::1 GET /Login.aspx - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 1504
+2019-11-23 17:01:44 ::1 GET /favicon.ico - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:20244/Login.aspx 404 0 2 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-23 17:08:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-23 17:08:39 ::1 GET /Login.aspx - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 3652
+2019-11-23 17:08:39 ::1 GET /favicon.ico - 20244 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:20244/Login.aspx 404 0 2 3

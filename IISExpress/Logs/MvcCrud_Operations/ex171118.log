@@ -1,0 +1,61 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 14:38:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 14:38:38 ::1 GET / - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 31310
+2017-11-18 14:38:38 ::1 GET /favicon.ico - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/ 200 0 0 59
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 14:40:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 14:40:14 ::1 GET / - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 92406
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 14:41:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 14:41:58 ::1 GET / - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 35215
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 14:45:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 14:45:21 ::1 GET / - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 45807
+2017-11-18 14:45:34 ::1 GET /details - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 404 0 0 123
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 15:05:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 15:05:56 ::1 GET /Index - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 404 0 0 111
+2017-11-18 15:06:16 ::1 GET /Emp/Index - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 9030
+2017-11-18 15:06:31 ::1 GET /Emp/Create - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 200 0 0 6700
+2017-11-18 15:06:31 ::1 GET /Content/site.css - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 70
+2017-11-18 15:06:31 ::1 GET /Scripts/jquery.validate.unobtrusive.min.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 89
+2017-11-18 15:06:31 ::1 GET /Scripts/jquery.validate.min.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 95
+2017-11-18 15:06:31 ::1 GET /Scripts/modernizr-2.5.3.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 104
+2017-11-18 15:06:31 ::1 GET /Scripts/jquery-1.7.1.min.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 133
+2017-11-18 15:06:31 ::1 GET /Scripts/jquery-1.7.1.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 135
+2017-11-18 15:06:31 ::1 GET /Images/accent.png - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Content/site.css 200 0 0 2
+2017-11-18 15:06:38 ::1 GET /Emp/Details - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 3005
+2017-11-18 15:07:17 ::1 GET /Emp/Details - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 9433
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 15:49:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 15:49:49 ::1 GET / - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 500 0 0 1025920
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-11-18 15:53:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-11-18 15:53:24 ::1 GET / - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 404 0 0 12236
+2017-11-18 15:53:43 ::1 GET /EmpCreate - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 404 0 0 86
+2017-11-18 15:53:58 ::1 GET /Emp/Create - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - 200 0 0 7345
+2017-11-18 15:53:58 ::1 GET /Content/site.css - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 304 0 0 24
+2017-11-18 15:53:58 ::1 GET /Scripts/modernizr-2.5.3.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 304 0 0 20
+2017-11-18 15:53:58 ::1 GET /Scripts/jquery-1.7.1.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 304 0 0 19
+2017-11-18 15:53:58 ::1 GET /Scripts/jquery.validate.min.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 304 0 0 87
+2017-11-18 15:53:58 ::1 GET /Scripts/jquery.validate.unobtrusive.min.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 304 0 0 128
+2017-11-18 15:53:58 ::1 GET /Images/accent.png - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Content/site.css 304 0 0 5
+2017-11-18 15:53:58 ::1 GET /Scripts/jquery-1.7.1.min.js - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 304 0 0 269
+2017-11-18 15:54:35 ::1 POST /Emp/Create - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 8027
+2017-11-18 15:54:47 ::1 POST /Emp/Create - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 5119
+2017-11-18 15:55:37 ::1 POST /Emp/Create - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 200 0 0 9266
+2017-11-18 15:55:46 ::1 GET / - 22903 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 http://localhost:22903/Emp/Create 404 0 0 5836

@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-26 13:16:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-26 13:16:11 ::1 GET /WebForm1.aspx - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 2662
+2019-09-26 13:16:11 ::1 GET /favicon.ico - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:1033/WebForm1.aspx 404 0 2 4
+2019-09-26 13:16:24 ::1 POST /WebForm1.aspx - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:1033/WebForm1.aspx 200 0 0 306
+2019-09-26 13:16:47 ::1 POST /WebForm1.aspx - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:1033/WebForm1.aspx 200 0 0 155
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-26 13:35:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-26 13:35:04 ::1 GET /WebForm1.aspx - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 2309
+2019-09-26 13:35:15 ::1 POST /WebForm1.aspx - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:1033/WebForm1.aspx 200 0 0 69
+2019-09-26 13:35:36 ::1 POST /WebForm1.aspx - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:1033/WebForm1.aspx 200 0 0 55
+2019-09-26 13:35:55 ::1 POST /WebForm1.aspx - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:1033/WebForm1.aspx 200 0 0 56
+2019-09-26 13:35:58 ::1 POST /WebForm1.aspx - 1033 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:1033/WebForm1.aspx 200 0 0 479

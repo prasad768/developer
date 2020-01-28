@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-05 06:32:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-05 06:32:28 ::1 GET / - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 403 14 0 2287
+2019-10-05 06:32:28 ::1 GET /favicon.ico - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/ 404 0 2 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-05 06:37:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-05 06:37:07 ::1 GET /AddEmployee.aspx - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 3951
+2019-10-05 06:37:07 ::1 GET /image/20161030_165112.jpg - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/AddEmployee.aspx 200 0 0 158
+2019-10-05 06:37:07 ::1 GET /WebResource.axd d=fqV81KWLWhVg-lLAb4IT6_DjqqmSxEGAg8QhOmLyT68z8HosULv0l6tnoe61thiCbbkSAmLTlwryKwTyxwkE8s_IhVDo4H447k77cGnpyUE1&t=636480529623431523 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/AddEmployee.aspx 200 0 0 245
+2019-10-05 06:37:07 ::1 GET /favicon.ico - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/AddEmployee.aspx 404 0 2 3
+2019-10-05 06:37:18 ::1 GET /AddEmployee.aspx - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/AddEmployee.aspx 200 0 0 36
+2019-10-05 06:37:24 ::1 GET /Home.aspx - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/AddEmployee.aspx 200 0 0 44
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-05 06:45:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-05 06:45:21 ::1 GET /DeleteEmployee.aspx - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 - 200 0 0 4239
+2019-10-05 06:45:21 ::1 GET /image/20161030_165112.jpg - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/DeleteEmployee.aspx 304 0 0 3
+2019-10-05 06:45:21 ::1 GET /favicon.ico - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/DeleteEmployee.aspx 404 0 2 3
+2019-10-05 06:45:30 ::1 GET /AddEmployee.aspx - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/DeleteEmployee.aspx 200 0 0 40
+2019-10-05 06:45:39 ::1 GET /AddEmployee.aspx - 14922 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.90+Safari/537.36 http://localhost:14922/AddEmployee.aspx 200 0 0 24

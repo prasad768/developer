@@ -1,0 +1,51 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-17 05:51:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-17 05:51:37 ::1 GET /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 - 200 0 0 3874
+2019-10-17 05:51:37 ::1 GET /favicon.ico - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 404 0 2 0
+2019-10-17 05:52:23 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 200 0 0 445
+2019-10-17 05:52:27 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 200 0 0 68
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-17 05:53:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-17 05:53:17 ::1 GET /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 - 200 0 0 1705
+2019-10-17 05:53:17 ::1 GET /favicon.ico - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 404 0 2 4
+2019-10-17 05:54:13 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 200 0 0 90
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-17 06:10:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-17 06:10:47 ::1 GET /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 - 200 0 0 2979
+2019-10-17 06:10:47 ::1 GET /favicon.ico - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 404 0 2 2
+2019-10-17 06:11:57 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 500 0 0 66437
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-17 06:12:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-17 06:12:44 ::1 GET /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 - 200 0 0 2346
+2019-10-17 06:15:26 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 500 0 64 158778
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-17 06:15:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-17 06:15:41 ::1 GET /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 - 200 0 0 2834
+2019-10-17 06:15:41 ::1 GET /favicon.ico - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 404 0 2 3
+2019-10-17 06:15:44 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 200 0 0 143
+2019-10-17 06:16:21 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 200 0 0 135
+2019-10-17 06:16:24 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 200 0 0 100
+2019-10-17 06:16:27 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 200 0 0 58
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-17 06:16:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-17 06:16:38 ::1 GET /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 - 200 0 0 1663
+2019-10-17 06:16:38 ::1 GET /favicon.ico - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 404 0 2 3
+2019-10-17 06:16:57 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 500 0 0 17136
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-10-17 06:17:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-10-17 06:17:02 ::1 GET /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 - 200 0 0 1299
+2019-10-17 06:17:08 ::1 POST /WebForm1.aspx - 18683 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/77.0.3865.120+Safari/537.36 http://localhost:18683/WebForm1.aspx 200 0 0 69

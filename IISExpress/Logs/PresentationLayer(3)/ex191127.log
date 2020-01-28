@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-27 13:51:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-27 13:51:16 ::1 GET / - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 403 14 0 2115
+2019-11-27 13:51:16 ::1 GET /favicon.ico - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:1242/ 404 0 2 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-27 13:52:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-27 13:52:01 ::1 GET /ss.aspx - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 2024
+2019-11-27 13:52:01 ::1 GET /favicon.ico - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:1242/ss.aspx 404 0 2 0
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-27 13:52:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-27 13:52:41 ::1 GET /ss.aspx - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 500 0 0 2370
+2019-11-27 13:52:41 ::1 GET /favicon.ico - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:1242/ss.aspx 404 0 2 3
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-11-27 13:55:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-11-27 13:55:36 ::1 GET /ss.aspx - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 - 200 0 0 2321
+2019-11-27 13:55:36 ::1 GET /favicon.ico - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:1242/ss.aspx 404 0 2 3
+2019-11-27 13:55:54 ::1 POST /ss.aspx - 1242 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/78.0.3904.87+Safari/537.36 http://localhost:1242/ss.aspx 200 0 0 317

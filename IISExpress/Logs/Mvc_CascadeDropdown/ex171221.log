@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2017-12-21 16:08:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2017-12-21 16:08:26 ::1 GET / - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - 200 0 0 5361
+2017-12-21 16:08:26 ::1 GET /Content/site.css - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/ 304 0 0 7
+2017-12-21 16:08:26 ::1 GET /Scripts/modernizr-2.5.3.js - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/ 304 0 0 7
+2017-12-21 16:08:26 ::1 GET /Scripts/jquery-1.7.1.js - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/ 304 0 0 7
+2017-12-21 16:08:26 ::1 GET /Images/orderedList1.png - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/Content/site.css 200 0 0 0
+2017-12-21 16:08:26 ::1 GET /Images/heroAccent.png - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/Content/site.css 200 0 0 3
+2017-12-21 16:08:26 ::1 GET /Images/orderedList2.png - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/Content/site.css 200 0 0 36
+2017-12-21 16:08:26 ::1 GET /Images/orderedList3.png - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/Content/site.css 200 0 0 40
+2017-12-21 16:08:27 ::1 GET /favicon.ico - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/ 200 0 0 40
+2017-12-21 16:08:51 ::1 GET /cascade/index - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - 200 0 0 12644
+2017-12-21 16:08:51 ::1 GET /Images/accent.png - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/Content/site.css 200 0 0 4
+2017-12-21 16:08:51 ::1 GET /Scripts/jquery-1.7.1.min.js - 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/cascade/index 304 0 0 469
+2017-12-21 16:10:24 ::1 GET /Cascade/GetStatesByCountryId CountryId=1&_=1513872535119 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/cascade/index 200 0 0 89722
+2017-12-21 16:10:48 ::1 GET /Cascade/GetStatesByCountryId CountryId=Selects+items&_=1513872644033 1282 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 http://localhost:1282/cascade/index 200 0 0 4043

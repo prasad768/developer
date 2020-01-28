@@ -1,0 +1,70 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 14:11:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 14:11:17 ::1 GET /WebForm2.aspx - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 100
+2019-09-22 14:11:17 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/WebForm2.aspx 500 19 183 18
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 14:14:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 14:14:13 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 12
+2019-09-22 14:14:13 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 2
+2019-09-22 14:15:21 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 20
+2019-09-22 14:15:21 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 2
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 14:17:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 14:17:16 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 50
+2019-09-22 14:17:16 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 22
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 14:17:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 14:17:40 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 122
+2019-09-22 14:17:40 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 2
+2019-09-22 14:20:50 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 0
+2019-09-22 14:20:50 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 0
+2019-09-22 14:20:53 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 4
+2019-09-22 14:20:53 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 3
+2019-09-22 14:32:53 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 0
+2019-09-22 14:32:53 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 8
+2019-09-22 14:32:56 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 3
+2019-09-22 14:32:56 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 4
+2019-09-22 14:32:59 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 1
+2019-09-22 14:32:59 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 0
+2019-09-22 14:33:40 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 1
+2019-09-22 14:33:40 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 2
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 14:36:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 14:36:52 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 78
+2019-09-22 14:36:52 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 3
+2019-09-22 14:36:54 ::1 GET / - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 4
+2019-09-22 14:36:54 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/ 500 19 183 4
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 14:42:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 14:42:04 ::1 GET /WebForm2.aspx - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 6
+2019-09-22 14:42:04 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/WebForm2.aspx 500 19 183 8
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 15:51:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 15:51:32 ::1 GET /WebForm2.aspx - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 35
+2019-09-22 15:51:32 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/WebForm2.aspx 500 19 183 6
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 16:12:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 16:12:22 ::1 GET /WebForm4.aspx - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 31
+2019-09-22 16:12:22 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/WebForm4.aspx 500 19 183 2
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-22 16:12:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-22 16:12:56 ::1 GET /WebForm4.aspx - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 19 183 34
+2019-09-22 16:12:56 ::1 GET /favicon.ico - 32228 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:32228/WebForm4.aspx 500 19 183 1

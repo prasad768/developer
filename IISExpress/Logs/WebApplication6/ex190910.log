@@ -1,0 +1,74 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 13:31:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 13:31:10 ::1 GET /WebForm1.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 7618
+2019-09-10 13:31:10 ::1 GET /favicon.ico - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm1.aspx 200 0 0 64
+2019-09-10 13:31:40 ::1 POST /WebForm1.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm1.aspx 500 0 0 14487
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 13:32:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 13:32:20 ::1 GET /WebForm1.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 5173
+2019-09-10 13:32:27 ::1 POST /WebForm1.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm1.aspx 200 0 0 203
+2019-09-10 13:32:40 ::1 POST /WebForm1.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm1.aspx 200 0 0 79
+2019-09-10 13:32:47 ::1 POST /WebForm1.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm1.aspx 200 0 0 83
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:04:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:04:23 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 500 0 0 26202
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:05:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:05:15 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 5383
+2019-09-10 14:05:22 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 75
+2019-09-10 14:05:23 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 80
+2019-09-10 14:05:23 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 100
+2019-09-10 14:05:33 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 69
+2019-09-10 14:05:48 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 68
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:09:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:09:13 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 5787
+2019-09-10 14:09:17 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 74
+2019-09-10 14:09:17 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 179
+2019-09-10 14:09:19 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 69
+2019-09-10 14:09:22 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 200 0 0 66
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:29:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:29:01 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 6311
+2019-09-10 14:29:23 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 500 0 64 15573
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:30:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:30:05 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 5822
+2019-09-10 14:31:19 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 500 0 64 66512
+2019-09-10 14:31:19 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 500 0 0 65610
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:31:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:31:37 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 5130
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:32:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:32:00 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 2268
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:33:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:33:01 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 5487
+2019-09-10 14:33:21 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 500 0 64 16023
+2019-09-10 14:33:21 ::1 POST /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 http://localhost:1521/WebForm2.aspx 500 0 64 16247
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2019-09-10 14:39:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2019-09-10 14:39:43 ::1 GET /WebForm2.aspx - 1521 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.132+Safari/537.36 - 200 0 0 5758
